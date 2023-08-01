@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
-    /**box-sizing: border-box;**/
+    
 }
 body{
     width: 100%;
@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background:url(Screenshot\ \(73\).png);
+    background:url(background-img.png);
     color: white;
     background-size: cover;
 }
@@ -411,19 +411,3 @@ form input,form textarea{
     padding: 10px;
     padding-left: 30px;
 }
-
-
-    
-/**.image{
-    height: 400px;
-    width: 397px;
-    align-items: center;
-    border: 4px dashed #0ef;
-    border-radius: 200px;
-    margin-left: 800px;
-    margin-top: 160px;
-    
-    
-    
-}**/
-
